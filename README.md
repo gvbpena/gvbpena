@@ -1,5 +1,3 @@
-# Hi there, I'm George 👋
-
 <b><i> About</i></b>
 <br><br>
 I'm a passionate developer who works smart to create solutions efficiently.
