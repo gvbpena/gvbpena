@@ -1,4 +1,4 @@
-<b><i> About</i></b>
+<b><i>About</i></b>
 <br><br>
 I'm a passionate developer who works smart to create solutions efficiently.
 
@@ -31,8 +31,7 @@ I'm a passionate developer who works smart to create solutions efficiently.
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-
-
+![Flutter](https://img.shields.io/badge/flutter-%23025682.svg?style=flat-square&logo=flutter&logoColor=white)
 
 <i>Reach Me At:</i>
 <div style="display: flex; justify-content: center; gap: 10px;">
